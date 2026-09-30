@@ -1,7 +1,7 @@
 # 🏢 Building Energy Efficiency Predictor
 > **ADS FA2 Case Study** — Data Analysis Using Machine Learning & Streamlit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://building-energy-efficiency-predictor.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://building-energy-efficiency-predictor-gcavm9bfqscmrcsssbdsk9.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-orange?logo=scikit-learn)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.64-red?logo=streamlit)
@@ -78,6 +78,11 @@ Given 8 building parameters (compactness, surface area, wall area, roof area, he
 ## 🖥️ Streamlit Web Application
 
 The interactive web app allows users to enter building specifications and instantly get predictions from all 4 ML models.
+
+### 🌐 Live Demo
+🔗 **[https://building-energy-efficiency-predictor-gcavm9bfqscmrcsssbdsk9.streamlit.app/](https://building-energy-efficiency-predictor-gcavm9bfqscmrcsssbdsk9.streamlit.app/)**
+
+> Enter building specs → Click **⚡ Run All 4 Predictions** → Get instant ML results!
 
 ### Features
 - 📈 **Heating Load Prediction** (Linear Regression)
